@@ -1,10 +1,10 @@
 [
   {
-    "tag_name": "eaglercraft 1.20.4",
-    "name": "1.20.4",
+    "tag_name": "v1.0.0",
+    "name": "Bản Phát Hành Đầu Tiên - Hoàn Chỉnh",
     "html_url": "https://yourproject.com/downloads/v1.0.0",
     "published_at": "2024-07-20T10:15:00Z",
-    "body": "27/7/2025",
+    "body": "Đây là bản phát hành ổn định đầu tiên của dự án chúng tôi.\n\n**Các tính năng mới:**\n* Tính năng A\n* Tính năng B\n\n**Sửa lỗi:**\n* Khắc phục lỗi X\n* Khắc phục lỗi Y",
     "assets": [
       {
         "name": "your-app-v1.0.0-windows.zip",
@@ -19,11 +19,11 @@
     ]
   },
   {
-    "tag_name": "eaglercraft 1.20.2",
-    "name": "1.20.2",
+    "tag_name": "v0.9.0-beta",
+    "name": "Phiên Bản Beta 0.9.0",
     "html_url": "https://yourproject.com/downloads/v0.9.0-beta",
     "published_at": "2024-07-10T16:00:00Z",
-    "body": "25/7/2025",
+    "body": "Đây là phiên bản beta để thử nghiệm các tính năng mới trước khi phát hành chính thức.\n\n**Thay đổi:**\n* Thêm giao diện người dùng mới\n* Cải thiện hiệu suất",
     "assets": [
       {
         "name": "your-app-v0.9.0-beta-linux.tar.gz",
