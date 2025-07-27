@@ -9,7 +9,7 @@
       {
         "name": "your-app-v1.0.0-windows.zip",
         "browser_download_url": "https://yourproject.com/downloads/your-app-v1.0.0-windows.zip",
-        "size": 12345678 // Kích thước byte
+        "size": 12345678
       },
       {
         "name": "your-app-v1.0.0-macos.dmg",
